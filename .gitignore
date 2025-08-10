@@ -1,0 +1,10 @@
+/data/
+/outputs/
+/__pycache__/
+/.idea/
+/.ipynb_checkpoints/
+
+*.pyc
+*.pkl
+*.joblib
+.env
