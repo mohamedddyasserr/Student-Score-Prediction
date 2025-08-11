@@ -26,7 +26,7 @@ Linear Regression was chosen for its simplicity, interpretability, and ability t
 
 ### **Version 1 — Single Feature Model**
 - **Feature Used:** `Hours_Studied` only  
-- **R² Score:** *~0.232*  
+- **R² Score:** *~23.2%*  
 - **MAE:** *~3–4 points*  
 - **MSE:** *~10.856*  
 - **Insights:**
@@ -38,7 +38,7 @@ Linear Regression was chosen for its simplicity, interpretability, and ability t
 
 ### **Version 2 — Multi-Feature Model**
 - **Features Used:** **All available features** in the dataset  
-- **R² Score:** *0.77*  
+- **R² Score:** *77%*  
 - **MAE:** *0.45 points*  
 - **MSE:** *3.26*  
 - **Insights:**
@@ -52,7 +52,7 @@ Linear Regression was chosen for its simplicity, interpretability, and ability t
 
 | Metric         | Version 1 (Hours Only) | Version 2 (All Features) |
 |----------------|------------------------|--------------------------|
-| R² Score       | ~0.232                  | **0.77**                 |
+| R² Score       | ~23.2%                  | **77%**                 |
 | MAE            | ~3–4                   | **0.45**                 |
 | MSE            | 10.856                   | **3.26**                 |
 
@@ -77,3 +77,10 @@ These plots help visually assess model accuracy and identify patterns or outlier
 
 ## Conclusion
 The comparison between the two model versions clearly shows that relying solely on study hours as a predictor provides limited accuracy. By incorporating all available features, the model achieved significantly better performance across all evaluation metrics. This highlights the importance of considering multiple factors when predicting student exam scores, as real-world academic performance is influenced by a combination of study habits, background, and other contextual variables.
+
+
+---
+
+## Author
+**Mohamed Zanaty**  
+This project was completed as part of my **Internship at Elevvo**.
