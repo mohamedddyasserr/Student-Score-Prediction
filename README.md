@@ -69,8 +69,8 @@ These plots help visually assess model accuracy and identify patterns or outlier
 
 | Version 1: Studied Hours Only | Version 2: All Features |
 |-------------------------------|--------------------------|
-| ![Model 1]<img width="718" height="561" alt="image" src="https://github.com/user-attachments/assets/a576e62c-f428-47ae-b422-7e56992615b6" />
- | ![Model 2]<img width="999" height="732" alt="image" src="https://github.com/user-attachments/assets/789ef299-3291-411a-a51c-dd5f54d7fc37" />
+| <img width="300" height="561" alt="image" src="https://github.com/user-attachments/assets/a576e62c-f428-47ae-b422-7e56992615b6" />
+ | <img width="300" height="732" alt="image" src="https://github.com/user-attachments/assets/789ef299-3291-411a-a51c-dd5f54d7fc37" />
  |
 
 
