@@ -66,8 +66,12 @@ Linear Regression was chosen for its simplicity, interpretability, and ability t
 ## Visualizations
 The project includes visualizations comparing predicted vs. actual exam scores for both model versions.  
 These plots help visually assess model accuracy and identify patterns or outliers.
-![Model V1 Graph] <img width="718" height="561" alt="image" src="https://github.com/user-attachments/assets/5fb17fd2-ef9d-4a5e-81b1-929af2379de9" />
-![Model V2 Graph] <img width="999" height="732" alt="image" src="https://github.com/user-attachments/assets/1eba6446-1e3a-4cbe-9756-2fbc6dba549f" />
+
+| Version 1: Studied Hours Only | Version 2: All Features |
+|-------------------------------|--------------------------|
+| ![Model 1]<img width="718" height="561" alt="image" src="https://github.com/user-attachments/assets/a576e62c-f428-47ae-b422-7e56992615b6" />
+ | ![Model 2]<img width="999" height="732" alt="image" src="https://github.com/user-attachments/assets/789ef299-3291-411a-a51c-dd5f54d7fc37" />
+ |
 
 
 
