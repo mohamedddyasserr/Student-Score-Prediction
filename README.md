@@ -1,10 +1,10 @@
 # Student Exam Score Prediction
 
-## 📌 Problem Statement
+## Problem Statement
 The goal of this project is to predict **students' exam scores** based on various factors that may influence academic performance.  
 By building and evaluating predictive models, we aim to understand how different variables—such as study hours, attendance, and background information—contribute to exam outcomes.  
 
-## 📊 Dataset Overview
+## Dataset Overview
 The dataset contains multiple features describing student academic behavior and background.  
 Some examples of features include:
 - `Hours_Studied` — Number of study hours before the exam
