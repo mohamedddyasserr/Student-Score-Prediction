@@ -85,14 +85,15 @@ The comparison between the two model versions clearly shows that relying solely 
 
 <div>
 <table align="center">
-  <tr>
-    <td align="center">
+  <tr>    </td>
+    </td>
+        <td align="center">
       <a href="https://github.com/mohamedddyasserr" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/126521373?v=4" width="150px;" alt="Mohamed Yasser"/>
-        <br>
+        <img src="https://avatars.githubusercontent.com/u/126451832?v=4" width="150px;" alt="Mohamed Yasser"/>
+        <br />
         <sub><b>Mohamed Yasser</b></sub>
       </a>
-    </td>
+    </td>    
   </tr>
 </table>
 </div>
