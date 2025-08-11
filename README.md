@@ -82,5 +82,19 @@ The comparison between the two model versions clearly shows that relying solely 
 ---
 
 ## Author
-**Mohamed Zanaty**  
+
+<div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mohamedddyasserr" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/126521373?v=4" width="150px;" alt="Mohamed Yasser"/>
+        <br>
+        <sub><b>Mohamed Yasser</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+  
 This project was completed as part of my **Internship at Elevvo**.
