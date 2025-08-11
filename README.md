@@ -83,8 +83,6 @@ The comparison between the two model versions clearly shows that relying solely 
 
 ## Author
 
-This project was completed as part of my **Internship at Elevvo**.
-
 <div>
 <table align="center">
   <tr>    </td>
