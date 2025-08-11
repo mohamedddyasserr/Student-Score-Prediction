@@ -68,7 +68,7 @@ The project includes visualizations comparing predicted vs. actual exam scores f
 These plots help visually assess model accuracy and identify patterns or outliers.
 
 | Version 1: Studied Hours Only | Version 2: All Features |
-|-------------------------------|--------------------------|
+|--------------------------------------------------------------|-------------------------------------------------------------------|
 | <img width="300" height="561" alt="image" src="https://github.com/user-attachments/assets/a576e62c-f428-47ae-b422-7e56992615b6" />
  | <img width="300" height="732" alt="image" src="https://github.com/user-attachments/assets/789ef299-3291-411a-a51c-dd5f54d7fc37" />
  |
